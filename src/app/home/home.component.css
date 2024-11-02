@@ -1,0 +1,145 @@
+/* Base Styles */
+h1 {
+  font-size: 2em;
+}
+
+.center {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  /* height: 50vh; */
+  text-align: center;
+  width: 100%;
+  margin-top: 10%;
+}
+
+.inline-container {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.inline-container img {
+  max-width: 50px;
+  width: 20px; /* Set a default width */
+  height: 20px; /* Set a default height */
+  opacity: 30%;
+  transition: opacity 0.3s; /* Smooth transition for opacity */
+}
+
+.inline-container img:hover {
+  opacity: 90%;
+  cursor: pointer; /* Ensure cursor shows pointer on hover */
+}
+
+/* Form Styles */
+.mat-form-field-invalid input {
+  border-color: red; /* Red when invalid */
+  transition: border-color 0.5s ease-in-out; /* Smooth transition */
+}
+
+.mat-form-field-valid input {
+  border-color: transparent; /* Fade to transparent when valid */
+  transition: border-color 0.5s ease-in-out; /* Smooth transition */
+}
+
+.small-label {
+  font-size: 12px;
+}
+
+/* Button Styles */
+#submitBtn {
+  cursor: pointer;
+  color: currentColor;
+  margin-bottom: 1.5em;
+  font-weight: 900;
+  width: 8em;
+  height: 3em;
+  transition: background 0.3s; /* Smooth transition for hover */
+}
+
+#submitBtn:hover {
+  background: #89aa8b;
+}
+
+#submitBtn:disabled {
+  cursor: not-allowed;
+}
+
+/* Username and Region Styles */
+a.usernameTxt {
+  font-size: 1.2em;
+  margin-left: 1em;
+  margin-top: 0.1em;
+  cursor: pointer;
+}
+
+a.date {
+  font-size: 0.7em;
+  float: right;
+}
+
+a.regionTxt {
+  margin-left: 0.8em;
+  font-size: 0.8em;
+}
+a.stepsTxt {
+  margin-left: 0.8em;
+  font-size: 0.8em;
+}
+
+/* Media Queries */
+@media only screen and (max-width: 320px) {
+  .center {
+    margin-top: 20%;
+  }
+}
+
+@media only screen and (min-width: 376px) and (max-width: 414px),
+  only screen and (min-width: 415px) and (max-width: 480px) {
+  .center {
+    margin-top: 20%;
+  }
+}
+
+
+
+/* Specific Styles */
+
+#usernameCell {
+  height: 7vh;
+}
+
+.clearBtn {
+  cursor: pointer; /* Ensure cursor shows pointer for clear button */
+}
+
+/* Media query for 360px width and 800px height */
+@media only screen and (max-width: 360px) and (max-height: 800px) {
+  mat-form-field {
+    font-size: 0.85em;
+  }
+
+  .input__field {
+    height: 1.0em;
+  }
+
+  #submitBtn {
+    width: 10em;
+    height: 3em;
+    font-size: 0.9em;
+  }
+
+  /* Optional: Adjust margins for better spacing */
+  .inline-container {
+    gap: 8px;
+  }
+
+  h1 {
+    font-size: 1.3em;
+  }
+  .center {
+    margin-top: 5%;
+  }
+}
