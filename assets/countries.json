@@ -1,0 +1,934 @@
+[
+  {
+    "name": "Afghanistan",
+    "region": "Afghanistan"
+  },
+  {
+    "name": "Åland Islands",
+    "region": "Åland Islands"
+  },
+  {
+    "name": "Albania",
+    "region": "Albania"
+  },
+  {
+    "name": "Algeria",
+    "region": "Algeria"
+  },
+  {
+    "name": "American Samoa",
+    "region": "American Samoa"
+  },
+  {
+    "name": "Andorra",
+    "region": "Andorra"
+  },
+  {
+    "name": "Angola",
+    "region": "Angola"
+  },
+  {
+    "name": "Anguilla",
+    "region": "Anguilla"
+  },
+  {
+    "name": "Antarctica",
+    "region": "Antarctica"
+  },
+  {
+    "name": "Antigua & Barbuda",
+    "region": "Antigua & Barbuda"
+  },
+  {
+    "name": "Argentina",
+    "region": "Argentina"
+  },
+  {
+    "name": "Armenia",
+    "region": "Armenia"
+  },
+  {
+    "name": "Aruba",
+    "region": "Aruba"
+  },
+  {
+    "name": "Australia",
+    "region": "Australia"
+  },
+  {
+    "name": "Austria",
+    "region": "Austria"
+  },
+  {
+    "name": "Azerbaijan",
+    "region": "Azerbaijan"
+  },
+  {
+    "name": "Bahamas",
+    "region": "Bahamas"
+  },
+  {
+    "name": "Bahrain",
+    "region": "Bahrain"
+  },
+  {
+    "name": "Bangladesh",
+    "region": "Bangladesh"
+  },
+  {
+    "name": "Barbados",
+    "region": "Barbados"
+  },
+  {
+    "name": "Belarus",
+    "region": "Belarus"
+  },
+  {
+    "name": "Belgium",
+    "region": "Belgium"
+  },
+  {
+    "name": "Belize",
+    "region": "Belize"
+  },
+  {
+    "name": "Benin",
+    "region": "Benin"
+  },
+  {
+    "name": "Bermuda",
+    "region": "Bermuda"
+  },
+  {
+    "name": "Bhutan",
+    "region": "Bhutan"
+  },
+  {
+    "name": "Bolivia",
+    "region": "Bolivia"
+  },
+  {
+    "name": "Bosnia & Herzegovina",
+    "region": "Bosnia & Herzegovina"
+  },
+  {
+    "name": "Botswana",
+    "region": "Botswana"
+  },
+  {
+    "name": "Bouvet Island",
+    "region": "Bouvet Island"
+  },
+  {
+    "name": "Brazil",
+    "region": "Brazil"
+  },
+  {
+    "name": "Brunei Darussalam",
+    "region": "Brunei Darussalam"
+  },
+  {
+    "name": "Bulgaria",
+    "region": "Bulgaria"
+  },
+  {
+    "name": "Burkina Faso",
+    "region": "Burkina Faso"
+  },
+  {
+    "name": "Burundi",
+    "region": "Burundi"
+  },
+  {
+    "name": "Cabo Verde",
+    "region": "Cabo Verde"
+  },
+  {
+    "name": "Cambodia",
+    "region": "Cambodia"
+  },
+  {
+    "name": "Cameroon",
+    "region": "Cameroon"
+  },
+  {
+    "name": "Canada",
+    "region": "Canada"
+  },
+  {
+    "name": "Cayman Islands",
+    "region": "Cayman Islands"
+  },
+  {
+    "name": "African Republic",
+    "region": "African Republic"
+  },
+  {
+    "name": "Chad",
+    "region": "Chad"
+  },
+  {
+    "name": "Chile",
+    "region": "Chile"
+  },
+  {
+    "name": "China",
+    "region": "China"
+  },
+  {
+    "name": "Christmas Island",
+    "region": "Christmas Island"
+  },
+  {
+    "name": "Colombia",
+    "region": "Colombia"
+  },
+  {
+    "name": "Comoros",
+    "region": "Comoros"
+  },
+  {
+    "name": "Congo",
+    "region": "Congo"
+  },
+  {
+    "name": "Congo",
+    "region": "Congo"
+  },
+  {
+    "name": "Cook Islands",
+    "region": "Cook Islands"
+  },
+  {
+    "name": "Costa Rica",
+    "region": "Costa Rica"
+  },
+  {
+    "name": "Côte d'Ivoire",
+    "region": "Côte d'Ivoire"
+  },
+  {
+    "name": "Croatia",
+    "region": "Croatia"
+  },
+  {
+    "name": "Cuba",
+    "region": "Cuba"
+  },
+  {
+    "name": "Curaçao",
+    "region": "Curaçao"
+  },
+  {
+    "name": "Cyprus",
+    "region": "Cyprus"
+  },
+  {
+    "name": "Czechia",
+    "region": "Czechia"
+  },
+  {
+    "name": "Denmark",
+    "region": "Denmark"
+  },
+  {
+    "name": "Djibouti",
+    "region": "Djibouti"
+  },
+  {
+    "name": "Dominica",
+    "region": "Dominica"
+  },
+  {
+    "name": "Dominican Republic",
+    "region": "Dominican Republic"
+  },
+  {
+    "name": "Ecuador",
+    "region": "Ecuador"
+  },
+  {
+    "name": "Egypt",
+    "region": "Egypt"
+  },
+  {
+    "name": "El Salvador",
+    "region": "El Salvador"
+  },
+  {
+    "name": "Equatorial Guinea",
+    "region": "Equatorial Guinea"
+  },
+  {
+    "name": "Eritrea",
+    "region": "Eritrea"
+  },
+  {
+    "name": "Estonia",
+    "region": "Estonia"
+  },
+  {
+    "name": "Eswatini",
+    "region": "Eswatini"
+  },
+  {
+    "name": "Ethiopia",
+    "region": "Ethiopia"
+  },
+  {
+    "name": "Faroe Islands",
+    "region": "Faroe Islands"
+  },
+  {
+    "name": "Fiji",
+    "region": "Fiji"
+  },
+  {
+    "name": "Finland",
+    "region": "Finland"
+  },
+  {
+    "name": "France",
+    "region": "France"
+  },
+  {
+    "name": "French Guiana",
+    "region": "French Guiana"
+  },
+  {
+    "name": "French Polynesia",
+    "region": "French Polynesia"
+  },
+  {
+    "name": "Gabon",
+    "region": "Gabon"
+  },
+  {
+    "name": "Gambia",
+    "region": "Gambia"
+  },
+  {
+    "name": "Georgia",
+    "region": "Georgia"
+  },
+  {
+    "name": "Germany",
+    "region": "Germany"
+  },
+  {
+    "name": "Ghana",
+    "region": "Ghana"
+  },
+  {
+    "name": "Gibraltar",
+    "region": "Gibraltar"
+  },
+  {
+    "name": "Greece",
+    "region": "Greece"
+  },
+  {
+    "name": "Greenland",
+    "region": "Greenland"
+  },
+  {
+    "name": "Grenada",
+    "region": "Grenada"
+  },
+  {
+    "name": "Guadeloupe",
+    "region": "Guadeloupe"
+  },
+  {
+    "name": "Guam",
+    "region": "Guam"
+  },
+  {
+    "name": "Guatemala",
+    "region": "Guatemala"
+  },
+  {
+    "name": "Guernsey",
+    "region": "Guernsey"
+  },
+  {
+    "name": "Guinea",
+    "region": "Guinea"
+  },
+  {
+    "name": "Guinea-Bissau",
+    "region": "Guinea-Bissau"
+  },
+  {
+    "name": "Guyana",
+    "region": "Guyana"
+  },
+  {
+    "name": "Haiti",
+    "region": "Haiti"
+  },
+  {
+    "name": "Holy See",
+    "region": "Holy See"
+  },
+  {
+    "name": "Honduras",
+    "region": "Honduras"
+  },
+  {
+    "name": "Hong Kong",
+    "region": "Hong Kong"
+  },
+  {
+    "name": "Hungary",
+    "region": "Hungary"
+  },
+  {
+    "name": "Iceland",
+    "region": "Iceland"
+  },
+  {
+    "name": "India",
+    "region": "India"
+  },
+  {
+    "name": "Indonesia",
+    "region": "Indonesia"
+  },
+  {
+    "name": "Iran",
+    "region": "Iran"
+  },
+  {
+    "name": "Iraq",
+    "region": "Iraq"
+  },
+  {
+    "name": "Ireland",
+    "region": "Ireland"
+  },
+  {
+    "name": "Isle of Man",
+    "region": "Isle of Man"
+  },
+  {
+    "name": "Israel",
+    "region": "Israel"
+  },
+  {
+    "name": "Italy",
+    "region": "Italy"
+  },
+  {
+    "name": "Jamaica",
+    "region": "Jamaica"
+  },
+  {
+    "name": "Japan",
+    "region": "Japan"
+  },
+  {
+    "name": "Jersey",
+    "region": "Jersey"
+  },
+  {
+    "name": "Jordan",
+    "region": "Jordan"
+  },
+  {
+    "name": "Kazakhstan",
+    "region": "Kazakhstan"
+  },
+  {
+    "name": "Kenya",
+    "region": "Kenya"
+  },
+  {
+    "name": "Kiribati",
+    "region": "Kiribati"
+  },
+  {
+    "name": "South Korea",
+    "region": "South Korea"
+  },
+  {
+    "name": "Kuwait",
+    "region": "Kuwait"
+  },
+  {
+    "name": "Kyrgyzstan",
+    "region": "Kyrgyzstan"
+  },
+  {
+    "name": "Laos",
+    "region": "Laos"
+  },
+  {
+    "name": "Latvia",
+    "region": "Latvia"
+  },
+  {
+    "name": "Lebanon",
+    "region": "Lebanon"
+  },
+  {
+    "name": "Lesotho",
+    "region": "Lesotho"
+  },
+  {
+    "name": "Liberia",
+    "region": "Liberia"
+  },
+  {
+    "name": "Libya",
+    "region": "Libya"
+  },
+  {
+    "name": "Liechtenstein",
+    "region": "Liechtenstein"
+  },
+  {
+    "name": "Lithuania",
+    "region": "Lithuania"
+  },
+  {
+    "name": "Luxembourg",
+    "region": "Luxembourg"
+  },
+  {
+    "name": "Macao",
+    "region": "Macao"
+  },
+  {
+    "name": "Madagascar",
+    "region": "Madagascar"
+  },
+  {
+    "name": "Malawi",
+    "region": "Malawi"
+  },
+  {
+    "name": "Malaysia",
+    "region": "Malaysia"
+  },
+  {
+    "name": "Maldives",
+    "region": "Maldives"
+  },
+  {
+    "name": "Mali",
+    "region": "Mali"
+  },
+  {
+    "name": "Malta",
+    "region": "Malta"
+  },
+  {
+    "name": "Marshall Islands",
+    "region": "Marshall Islands"
+  },
+  {
+    "name": "Martinique",
+    "region": "Martinique"
+  },
+  {
+    "name": "Mauritania",
+    "region": "Mauritania"
+  },
+  {
+    "name": "Mauritius",
+    "region": "Mauritius"
+  },
+  {
+    "name": "Mayotte",
+    "region": "Mayotte"
+  },
+  {
+    "name": "Mexico",
+    "region": "Mexico"
+  },
+  {
+    "name": "Micronesia",
+    "region": "Micronesia"
+  },
+  {
+    "name": "Moldova",
+    "region": "Moldova"
+  },
+  {
+    "name": "Monaco",
+    "region": "Monaco"
+  },
+  {
+    "name": "Mongolia",
+    "region": "Mongolia"
+  },
+  {
+    "name": "Montenegro",
+    "region": "Montenegro"
+  },
+  {
+    "name": "Montserrat",
+    "region": "Montserrat"
+  },
+  {
+    "name": "Morocco",
+    "region": "Morocco"
+  },
+  {
+    "name": "Mozambique",
+    "region": "Mozambique"
+  },
+  {
+    "name": "Myanmar",
+    "region": "Myanmar"
+  },
+  {
+    "name": "Namibia",
+    "region": "Namibia"
+  },
+  {
+    "name": "Nauru",
+    "region": "Nauru"
+  },
+  {
+    "name": "Nepal",
+    "region": "Nepal"
+  },
+  {
+    "name": "Netherlands",
+    "region": "Netherlands"
+  },
+  {
+    "name": "New Caledonia",
+    "region": "New Caledonia"
+  },
+  {
+    "name": "New Zealand",
+    "region": "New Zealand"
+  },
+  {
+    "name": "Nicaragua",
+    "region": "Nicaragua"
+  },
+  {
+    "name": "Niger",
+    "region": "Niger"
+  },
+  {
+    "name": "Nigeria",
+    "region": "Nigeria"
+  },
+  {
+    "name": "Niue",
+    "region": "Niue"
+  },
+  {
+    "name": "Norfolk Island",
+    "region": "Norfolk Island"
+  },
+  {
+    "name": "North Macedonia",
+    "region": "North Macedonia"
+  },
+  {
+    "name": "Mariana Islands",
+    "region": "Mariana Islands"
+  },
+  {
+    "name": "Norway",
+    "region": "Norway"
+  },
+  {
+    "name": "Oman",
+    "region": "Oman"
+  },
+  {
+    "name": "Pakistan",
+    "region": "Pakistan"
+  },
+  {
+    "name": "Palau",
+    "region": "Palau"
+  },
+  {
+    "name": "Palestine",
+    "region": "Palestine"
+  },
+  {
+    "name": "Panama",
+    "region": "Panama"
+  },
+  {
+    "name": "Papua New Guinea",
+    "region": "Papua New Guinea"
+  },
+  {
+    "name": "Paraguay",
+    "region": "Paraguay"
+  },
+  {
+    "name": "Peru",
+    "region": "Peru"
+  },
+  {
+    "name": "Philippines",
+    "region": "Philippines"
+  },
+  {
+    "name": "Pitcairn",
+    "region": "Pitcairn"
+  },
+  {
+    "name": "Poland",
+    "region": "Poland"
+  },
+  {
+    "name": "Portugal",
+    "region": "Portugal"
+  },
+  {
+    "name": "Puerto Rico",
+    "region": "Puerto Rico"
+  },
+  {
+    "name": "Qatar",
+    "region": "Qatar"
+  },
+  {
+    "name": "Réunion",
+    "region": "Réunion"
+  },
+  {
+    "name": "Romania",
+    "region": "Romania"
+  },
+  {
+    "name": "Russia",
+    "region": "Russia"
+  },
+  {
+    "name": "Rwanda",
+    "region": "Rwanda"
+  },
+  {
+    "name": "Saint Barthélemy",
+    "region": "Saint Barthélemy"
+  },
+  {
+    "name": "Saint Lucia",
+    "region": "Saint Lucia"
+  },
+  {
+    "name": "Samoa",
+    "region": "Samoa"
+  },
+  {
+    "name": "San Marino",
+    "region": "San Marino"
+  },
+  {
+    "name": "Sao Tome & Principe",
+    "region": "Sao Tome & Principe"
+  },
+  {
+    "name": "Saudi Arabia",
+    "region": "Saudi Arabia"
+  },
+  {
+    "name": "Senegal",
+    "region": "Senegal"
+  },
+  {
+    "name": "Serbia",
+    "region": "Serbia"
+  },
+  {
+    "name": "Seychelles",
+    "region": "Seychelles"
+  },
+  {
+    "name": "Sierra Leone",
+    "region": "Sierra Leone"
+  },
+  {
+    "name": "Singapore",
+    "region": "Singapore"
+  },
+  {
+    "name": "Sint Maarten",
+    "region": "Sint Maarten"
+  },
+  {
+    "name": "Slovakia",
+    "region": "Slovakia"
+  },
+  {
+    "name": "Slovenia",
+    "region": "Slovenia"
+  },
+  {
+    "name": "Solomon Islands",
+    "region": "Solomon Islands"
+  },
+  {
+    "name": "Somalia",
+    "region": "Somalia"
+  },
+  {
+    "name": "South Africa",
+    "region": "South Africa"
+  },
+  {
+    "name": "South Sudan",
+    "region": "South Sudan"
+  },
+  {
+    "name": "Spain",
+    "region": "Spain"
+  },
+  {
+    "name": "Sri Lanka",
+    "region": "Sri Lanka"
+  },
+  {
+    "name": "Sudan",
+    "region": "Sudan"
+  },
+  {
+    "name": "Suriname",
+    "region": "Suriname"
+  },
+  {
+    "name": "Sweden",
+    "region": "Sweden"
+  },
+  {
+    "name": "Switzerland",
+    "region": "Switzerland"
+  },
+  {
+    "name": "Taiwan",
+    "region": "Taiwan"
+  },
+  {
+    "name": "Tajikistan",
+    "region": "Tajikistan"
+  },
+  {
+    "name": "Tanzania",
+    "region": "Tanzania"
+  },
+  {
+    "name": "Thailand",
+    "region": "Thailand"
+  },
+  {
+    "name": "Timor-Leste",
+    "region": "Timor-Leste"
+  },
+  {
+    "name": "Togo",
+    "region": "Togo"
+  },
+  {
+    "name": "Tokelau",
+    "region": "Tokelau"
+  },
+  {
+    "name": "Tonga",
+    "region": "Tonga"
+  },
+  {
+    "name": "Tunisia",
+    "region": "Tunisia"
+  },
+  {
+    "name": "Türkiye",
+    "region": "Türkiye"
+  },
+  {
+    "name": "Turkmenistan",
+    "region": "Turkmenistan"
+  },
+  {
+    "name": "Turks & Caicos Islands",
+    "region": "Turks & Caicos Islands"
+  },
+  {
+    "name": "Tuvalu",
+    "region": "Tuvalu"
+  },
+  {
+    "name": "Uganda",
+    "region": "Uganda"
+  },
+  {
+    "name": "Ukraine",
+    "region": "Ukraine"
+  },
+  {
+    "name": "United Arab Emirates",
+    "region": "United Arab Emirates"
+  },
+  {
+    "name": "United Kingdom",
+    "region": "United Kingdom"
+  },
+  {
+    "name": "United States",
+    "region": "United States"
+  },
+  {
+    "name": "US Minor Islands",
+    "region": "US Minor Islands"
+  },
+  {
+    "name": "Uruguay",
+    "region": "Uruguay"
+  },
+  {
+    "name": "Uzbekistan",
+    "region": "Uzbekistan"
+  },
+  {
+    "name": "Vanuatu",
+    "region": "Vanuatu"
+  },
+  {
+    "name": "Venezuela",
+    "region": "Venezuela"
+  },
+  {
+    "name": "Viet Nam",
+    "region": "Viet Nam"
+  },
+  {
+    "name": "Virgin Islands (British)",
+    "region": "Virgin Islands (British)"
+  },
+  {
+    "name": "Virgin Islands (U.S.)",
+    "region": "Virgin Islands (U.S.)"
+  },
+  {
+    "name": "Wallis and Futuna",
+    "region": "Wallis and Futuna"
+  },
+  {
+    "name": "Western Sahara",
+    "region": "Western Sahara"
+  },
+  {
+    "name": "Yemen",
+    "region": "Yemen"
+  },
+  {
+    "name": "Zambia",
+    "region": "Zambia"
+  },
+  {
+    "name": "Zimbabwe",
+    "region": "Zimbabwe"
+  }
+]
