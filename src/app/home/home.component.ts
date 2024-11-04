@@ -14,7 +14,7 @@ import { Regions } from '../models/region.interface';
 import { HttpClient, HttpErrorResponse } from '@angular/common/http';
 import { MatSnackBar } from '@angular/material/snack-bar';
 import * as moment from 'moment-timezone';
-
+import { environment } from '../../../src/environments/environments';
 @Component({
   selector: 'app-home',
   templateUrl: './home.component.html',
@@ -94,7 +94,7 @@ export class HomeComponent implements OnInit {
   }
 
   private fetchUsernames(): void {
-    this.http.get<Username[]>('http://localhost:3000/api/usernames').subscribe(
+    this.http.get<Username[]>(`${environment.apiUrl}/usernames`).subscribe(
       (res: Username[]) => {
         this.usernames.data = res;
         console.log(this.usernames.data);
@@ -169,7 +169,7 @@ export class HomeComponent implements OnInit {
     // If true, submit form, else user receives error
     if (isValid) {
       this.http
-        .post('http://localhost:3000/api/username', {
+        .post(`${environment.apiUrl}/username`, {
           username: usernameInput.username,
           date: new Date(),
           region: regionInput || null,
