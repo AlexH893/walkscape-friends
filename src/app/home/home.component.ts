@@ -14,7 +14,7 @@ import { Regions } from '../models/region.interface';
 import { HttpClient, HttpErrorResponse } from '@angular/common/http';
 import { MatSnackBar } from '@angular/material/snack-bar';
 import * as moment from 'moment-timezone';
-import { environment } from '../../../src/environments/environments';
+import { environment } from '../../environments/environment';
 @Component({
   selector: 'app-home',
   templateUrl: './home.component.html',
